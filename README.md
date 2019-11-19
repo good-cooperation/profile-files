@@ -2,4 +2,4 @@
 
 ## Lesson 1
 
-Print
+Print("hello"()'g?""heloolo"()'g?""heloolo"()'g?""heloolo"()'g?""heloolo"()'g?""heloolo"()'g?""heloolo"()'g?""heloolo"()'g?""heloolo"()'g?""heloolo"()'g?""heloolo"()'g?""heloolo"()'g?""heloolo"()'g?""heloolo"()'g?""heloolo"()'g?""heloolo"()'g?""heloolo"()'g?""heloolo"()'g?""heloolo"()'g?""heloo)
