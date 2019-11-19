@@ -2,4 +2,4 @@
 
 ## Lesson 1
 
-Print("hello, world!")
+Print("hello, world.")
